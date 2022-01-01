@@ -4,5 +4,4 @@ torchvision==0.9.1+cpu
 fastai>=2.3.1
 ipywidgets
 voila
-nbdev
 jupyter
