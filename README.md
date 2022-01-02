@@ -1,7 +1,9 @@
 # Persian-Food-Image-Classifier
 A very simple image classifier using resnet18 to detect what was the Persian food you had at that restaurant. The web application is available here (built in Streamlit): 
 https://share.streamlit.io/donyazz/persian-food-image-classifier/main/PersianFood_ImageClassifier.py
+
 This project is based on fastai course and uses fastai and pytorch deep learning libraries. 
+
 The files in this repository are as follow:
   1.  PersianFood_ImageClassifier.py: this is the deployment file
   2.  export.pkl: this is the model
